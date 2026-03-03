@@ -1,0 +1,7 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026B.git
+cd MRIInterns
+git checkout -b kishor-assignment
+File Creation -> kishor_kumar.txt
+git add .
+git commit -m "kishor-txt-file"
+git push -u origin kishor-assignment
