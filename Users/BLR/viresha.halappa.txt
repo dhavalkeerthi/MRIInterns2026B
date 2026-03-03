@@ -4,8 +4,7 @@ git config --global user.email "email@example.com"
 git config --list
 git status
 git add.
-git push
-git add viresha.halappa
 git commit -m "message"
+git push
 git log
 git diff
