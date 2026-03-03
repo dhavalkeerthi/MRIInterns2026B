@@ -1,1 +1,10 @@
-"Hi"
+STEP 1: Install git
+STEP 2: Create a directory
+STEP 3: git clone https://github.com/dhavalkeerthi/MRIInterns2026B.git
+STEP 4: cd MRIInterns2026B
+STEP 5: git checkout -b Tilak.Suresh
+STEP 6: type nul > TilakS.uresh.txt
+STEP 7: Add some content 
+STEP 8: git add .
+STEP 9: git commit -m "Changes maded"
+STEP 10: git push origin Tilak.Suresh
