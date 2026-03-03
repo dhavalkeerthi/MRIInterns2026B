@@ -1,0 +1,16 @@
+1.Cloning Repository
+    git clone https://github.com/dhavalkeerthi/MRIInterns2026B.git
+ 
+2.Creating branch
+     git checkout -b Chethan.Mallesha
+ 
+3.Created text file Chethan.Mallesha.txt
+ 
+4. adding changes
+    git add .
+ 
+5 commiting changes 
+    git commit -m "commited Chethan.Mallesha"
+ 
+6 pushing to branch 
+    git push origin Chethan.Mallesha
