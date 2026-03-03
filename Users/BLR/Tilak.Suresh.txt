@@ -1,0 +1,9 @@
+git clone repo-name
+git checkout -b my-branch-name
+git branch
+create a txt file
+git status
+git add filename.txt
+git commit -m "message"
+git push origin my-branch-name
+Compare & pull request
