@@ -1,3 +1,7 @@
-git clone https://github.com/dhavalkeerthi/MRIInterns2026B
+git clone https://github.com/username/project-name.git
+cd project-name
 git checkout -b Akash.Gowda
 touch Akash.Gowda.txt
+Add the commands in the File
+git commit -m "Added Akash.Gowda.txt"
+git push origin Akash.Gowda
