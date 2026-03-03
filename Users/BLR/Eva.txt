@@ -1,0 +1,17 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026B
+
+cd MRIInterns2026B
+
+cd blr
+
+git branch Evangeline.prasad
+
+git checkout Evangeline.prasad
+
+type nul > Eva.txt
+
+
+
+git add Users/BLR/Eva.txt
+
+git commit -m "Added Eva.txt in BLR folder"
