@@ -3,7 +3,8 @@ This is Line 2
 This is Line 3
 This is Line 4
 This is Line 5
-This is Line 6
+Adding new line 6.4
+This is Line 6.5
 This is Line 7
 This is Line 8
 This is Line 9
