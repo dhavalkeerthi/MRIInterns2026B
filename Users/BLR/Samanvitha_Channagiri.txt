@@ -1,4 +1,4 @@
-git clone "url.git"
+git clone "https://github.com/dhavalkeerthi/MRIInterns2026B.git"
 git checkout -b samanvitha.channagiri
 git status
 git add . 
