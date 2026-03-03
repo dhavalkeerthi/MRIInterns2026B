@@ -1,0 +1,4 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026B.git
+cd MRIInterns2026B
+git checkout -b dhanalakshmi.suresh
+git branch

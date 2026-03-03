@@ -1,0 +1,8 @@
+Step 1 : git clone https://github.com/username/project-name.git
+Step 2 : cd project-name
+Step 3 : git checkout -b Siddarth.Kailas
+Step 4 : touch Siddarth.txt
+Step 5 : Add the commands in the File
+Step 6 : git add Siddarth.txt
+Step 7 : git commit -m "Added Siddarth.Kailas.txt"
+Step 8 : git push origin Siddarth.Kailas

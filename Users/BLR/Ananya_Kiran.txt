@@ -1,0 +1,13 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026B
+
+git branch Ananya.Kiran
+
+git checkout Ananya.Kiran
+
+type nul > Ananya_Kiran.txt
+
+git add Ananya_Kiran.txt
+
+git commit -m "Added Ananya_Kiran.txt"
+
+git push origin Ananya.Kiran

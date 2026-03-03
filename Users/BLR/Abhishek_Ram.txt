@@ -1,0 +1,8 @@
+git clone https://github.com/dhavalkkeerthi/MRInterns2026B.git
+cd MRIInterns2026B
+git checkout -b Abhishek.Ram
+cd blg
+type nul > Abhishek.Ram.txt
+git add .
+git commit -m "Added Abhishek.Ram.txt inside blg"
+git push origin Abhishek.Ram
