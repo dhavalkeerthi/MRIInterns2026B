@@ -1,4 +1,6 @@
 Git commands
+Git add .
+Git init
 git clone repo-name
 git checkout -b branch-name
 git branch
