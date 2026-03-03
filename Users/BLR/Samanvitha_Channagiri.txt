@@ -1,5 +1,7 @@
-git clone
-git checkout -b
+git clone "url.git"
+git checkout -b samanvitha.channagiri
 git status
 git add . 
 git commit -m "message"
+git push origin  samanvitha.channagiri
+create a pr
