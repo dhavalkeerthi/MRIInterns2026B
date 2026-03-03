@@ -1,0 +1,6 @@
+Git commands
+git clone repo-name
+git checkout -b branch-name
+git branch
+create a txt file
+git status
