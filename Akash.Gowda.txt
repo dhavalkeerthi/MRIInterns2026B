@@ -1,0 +1,3 @@
+git clone https://github.com/dhavalkeerthi/MRIInterns2026B > Akash.Gowda.txt
+echo git checkout -b Akash.Gowda >> Akash.Gowda.txt
+echo touch Akash.Gowda.txt
