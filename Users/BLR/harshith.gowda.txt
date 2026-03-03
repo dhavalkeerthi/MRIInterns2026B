@@ -1,0 +1,5 @@
+ git clone https://github.com/dhavalkeerthi/MRIInterns2026B
+ cd MRIINTERNS2026B
+ git checkout -b harshith.gowda
+ git push origin harshith.gowda
+  New-Item harshith.gowda.txt
