@@ -1,0 +1,8 @@
+"Recording the Git commands here"
+git -v // Used to check the version of the git we have installed
+git clone "https://github.com/Sahana-Gangaraju/Sahana-Gangaraju-Git-Practice.git" // We first went to the git create the github account then we created the repo in the git copy the url and cloned to the local shop
+git checkout -b Sahana.Gangaraju // We are now creating the branch named Sahana.Gangaraju and now we moved from main to this this branch
+echo "Recording the Git commands here" > Sahana.Gangaraju.txt // We are creating the file called sahana.Gangaraju in the .txt format 
+git add Sahana.Gangaraju.txt // This is the intermediat stage between storing the file in local shop and storing it in the git permanantly so befor dng the commit we are supposed to add.
+git commit -m "Added command log file"
+git push origin Sahana.Gangaraju
