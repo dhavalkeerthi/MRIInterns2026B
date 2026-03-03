@@ -1,0 +1,7 @@
+git clone https://github.com/username/project-name.git
+cd project-name
+git checkout -b Divya.Kumar
+touch Divya.txt
+Add the commands in the File
+git commit -m "Added Divya.Kumar.txt"
+git push origin Divya.Kumar
