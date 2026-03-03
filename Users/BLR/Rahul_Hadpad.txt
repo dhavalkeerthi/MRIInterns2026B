@@ -1,0 +1,19 @@
+1.Cloning Repository
+    git clone https://github.com/dhavalkeerthi/MRIInterns2026B.git
+
+2.Creating branch
+     git checkout -b Rahul.Hadpad
+
+3.Created text file =>Rahu_hadpad.txt
+
+4. adding changes
+    git add .
+
+5 commiting changes 
+    git commit -m "created text file added git cmd used"
+
+6 pushing to branch 
+    git push origin Rahul.Hadpad
+
+
+
